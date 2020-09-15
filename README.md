@@ -1,4 +1,4 @@
-# Java Übung 9: Einfach verkettete Liste (Linked List)
+# Java Übung 8: Einfach verkettete Liste (Linked List)
 
 Java-Klassen und Arrays sind sogenannte Referenz-Datentypen. Das bedeutet, dass im Gegensatz zu primitiven Datentypen wie int, char, byte, etc. der Wert nicht direkt in der Variable gespeichert ist, sondern lediglich die Referenz zum jeweiligen Bereich im Speicher, wo sich das Objekt befindet.
 
